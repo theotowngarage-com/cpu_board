@@ -1,3 +1,5 @@
 (fp_lib_table
   (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints")(options "")(descr ""))
+  (lib (name "custom")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints")(options "")(descr "")(disabled))
+  (lib (name "Custom_lib")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/Custom_lib.pretty")(options "")(descr ""))
 )
