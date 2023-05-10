@@ -4,3 +4,6 @@
 *.xml
 # backup files
 *.bak
+/cpu_board-backups
+# local preferences
+*.kicad_prl
